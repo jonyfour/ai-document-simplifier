@@ -28,10 +28,10 @@ AI Document Simplifier helps users quickly understand technical, legal, or polic
 ## Screenshots
 
 ### Input
-![Input](screenshots/01-input.png)
+![Input](input.png)
 
 ### Output
-![Output](screenshots/02-output.png)
+![Output](output.png)
 
 ### Code
-![Code](screenshots/03-code.png)
+![Code](code.png)
