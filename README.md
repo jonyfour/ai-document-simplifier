@@ -64,11 +64,17 @@ This project demonstrates real-world AI automation, not just prompt usage.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-- Document input
-- AI-generated output
-- Apps Script logic
+### Document Input
+![Document Input](screenshots/input.png)
+
+### AI Generated Output
+![AI Output](screenshots/output.png)
+
+### Apps Script Logic
+![Apps Script](screenshots/code.png)
+
 
 ---
 
